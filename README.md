@@ -8,5 +8,6 @@
 (4) git commit -m "메시지"
 (5) git remote add origin (원격저장소 주소)
 : 붙여넣기는 단축키 Shift + Insert
-(6) git push origin main
+(6) git branch -M main
+(6) git push -u origin main
 : 모든 변동사항이 레포지토리 github에 업로드됨.
